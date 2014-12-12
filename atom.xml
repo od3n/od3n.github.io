@@ -1,16 +1,25 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
 
-  <title><![CDATA[My Octopress Blog]]></title>
+  <title><![CDATA[Salahuddin Hairai]]></title>
   <link href="http://od3n.github.io/atom.xml" rel="self"/>
   <link href="http://od3n.github.io/"/>
-  <updated>2014-12-12T08:00:19+00:00</updated>
+  <updated>2014-12-12T10:35:55+00:00</updated>
   <id>http://od3n.github.io/</id>
   <author>
-    <name><![CDATA[Your Name]]></name>
+    <name><![CDATA[Salahuddin Hairai]]></name>
     
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[Blog Dengan Octopress]]></title>
+    <link href="http://od3n.github.io/blog-dengan-octopress/"/>
+    <updated>2014-12-12T08:24:29+00:00</updated>
+    <id>http://od3n.github.io/blog-dengan-octopress</id>
+    <content type="html"><![CDATA[<p>Hello post!</p>
+]]></content>
+  </entry>
   
 </feed>
